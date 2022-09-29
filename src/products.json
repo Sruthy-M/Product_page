@@ -1,0 +1,25 @@
+[
+    {
+       
+        "Productname" : "Hair Oil",
+        "Price" : 122,
+        "imgurl" : "hairoil"
+       
+    },
+    {
+        "Productname" : "Face wash",
+        "Price" : 123,
+        "imgurl" : "facewash"
+    },
+    {
+        "Productname" : "Hair Oil",
+        "Price" : 122,
+        "imgurl" : "hairoil"
+
+    },
+    {
+        "Productname" : "Face wash",
+        "Price" : 123,
+        "imgurl" : "facewash"  
+    }
+]
